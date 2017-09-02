@@ -1,6 +1,6 @@
-# Mp3 Zing Downloader
+# Zing Mp3 Downloader
 
-Mp3 Zing Downloader work in macOS, Linux and Windows.
+Zing Mp3 Downloader work in macOS, Linux and Windows.
 
 ## Feature
 - Download lossless file from Zing Mp3
@@ -20,7 +20,12 @@ Mp3 Zing Downloader work in macOS, Linux and Windows.
 ./mp3 http://mp3.zing.vn/bai-hat/Faded-Alan-Walker/ZW7O8OI9.html
 ```
 
-Or download playlist
+ - Example download playlist
 ```
 ./mp3 http://mp3.zing.vn/album/Bang-Xep-Hang-Bai-Hat-Viet-Nam-Tuan-35-2017/ZO68FEDZ.html
 ```
+
+## Demo
+
+![demo](https://github.com/und3fined/zingmp3/blob/master/demo.png?raw=true "Demo")
+
