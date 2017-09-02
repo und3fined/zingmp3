@@ -9,7 +9,7 @@ Mp3 Zing Downloader work in macOS, Linux and Windows.
 
 ## Use
 
-- Download `mp3` file from here
+- Download `mp3` file from [here](https://github.com/und3fined/zingmp3/raw/master/mp3)
 - Run command
 ```
 ./mp3 <Zing MP3 URL>
