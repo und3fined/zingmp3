@@ -9,15 +9,26 @@ Zing Mp3 Downloader work in macOS, Linux and Windows.
 
 ## Use
 
-- Download `mp3` file from [here](https://github.com/und3fined/zingmp3/raw/master/mp3)
+- Download `mp3` file. from [here](https://github.com/und3fined/zingmp3/raw/master/mp3)
+
+
+	- For Windows [32bit](https://github.com/und3fined/zingmp3/raw/master/mp3_x86.exe) or [64bit](https://github.com/und3fined/zingmp3/raw/master/mp3_x64.exe)
+	- For Mac and Linux [click here](https://github.com/und3fined/zingmp3/raw/master/mp3)
+
+
 - Run command
 ```
-./mp3 <Zing MP3 URL>
+./mp3 <ZingMP3URL> [Quality]
+
+
+- Quality support 320 and lossless
+
 ```
+
 
 - Example
 ```
-./mp3 http://mp3.zing.vn/bai-hat/Faded-Alan-Walker/ZW7O8OI9.html
+./mp3 http://mp3.zing.vn/bai-hat/Ca-Mot-Troi-Thuong-Nho-Ho-Ngoc-Ha/ZW80C79U.html
 ```
 
  - Example download playlist
