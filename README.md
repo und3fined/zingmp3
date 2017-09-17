@@ -21,7 +21,7 @@ Zing Mp3 Downloader work in macOS, Linux and Windows.
 
 - Run on **Windows**:
 
-	- Open CMD (press Window -> search: CMD or short cut Window + R)
+	- Open CMD (press Window -> search: CMD or shortcut Window + R)
 	- Run command:
 		```
 		mp3_x86 <ZingMP3URL> [Quality]
