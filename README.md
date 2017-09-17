@@ -4,7 +4,7 @@ Zing Mp3 Downloader work in macOS, Linux and Windows.
 
 ## Feature
 - Download lossless file from Zing Mp3
-- Download music file "Bài hát này không tải được vì lý do bản quyền"
+- Download music file *"Bài hát này không tải được vì lý do bản quyền"*
 - Download playlist
 
 ## Use
@@ -14,13 +14,12 @@ Zing Mp3 Downloader work in macOS, Linux and Windows.
 	- For Mac and Linux [click here](https://github.com/und3fined/zingmp3/raw/master/mp3)
 	- For Windows [32bit](https://github.com/und3fined/zingmp3/raw/master/mp3_x86.exe) or [64bit](https://github.com/und3fined/zingmp3/raw/master/mp3_x64.exe)
 
-- Run on macOS or Linux
+- Run on **macOS** or **Linux**
 ```
 ./mp3 <ZingMP3URL> [Quality]
 ```
 
-
-- Run on Windows:
+- Run on **Windows**:
 
 	- Open CMD (press Window -> search: CMD or short cut Window + R)
 	- Run command:
